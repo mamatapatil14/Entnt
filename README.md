@@ -78,8 +78,8 @@ simple-erp/
 
 - [react](https://reactjs.org/)
 - [react-router-dom](https://reactrouter.com/)
-- [react-bootstrap]
-- [react-icons]
+- [react-bootstrap](https://react-bootstrap.netlify.app/)
+- [react-icons](https://react-icons.github.io/react-icons/)
 
 ## Contributing
 
