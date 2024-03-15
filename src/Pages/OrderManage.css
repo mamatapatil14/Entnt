@@ -1,0 +1,56 @@
+
+.ordhead h3{
+    text-align: center;
+    margin-top: 1rem;
+}
+.totalord{
+    margin-left: 1rem;
+    font-size: large;
+    
+}
+.maintable{
+    
+    margin-top: 0.5rem;
+    
+}
+.toast{
+    margin-left: auto;
+    margin-right: auto;
+}
+td i{
+    display: none;
+}
+@media  screen and (max-width:800px){
+    
+   
+    .totalord{
+        margin-left: 1rem;
+        font-size: small;
+        
+    }
+    
+      /* Adjust modal width */
+      .modal-content {
+        margin-top: 7rem;
+        margin-left:auto ;
+        margin-right: auto;
+        width: 90%;
+        max-width: 400px;
+      }
+      td .btn {
+        display: none;
+       
+      }
+      td i{
+        
+        display: block;
+        text-align: center;
+        font-size: smaller;
+        color: black;
+      }
+    .maintable  th,td{
+        font-size: 6.3px;
+        height: max-content;
+        
+    }
+}

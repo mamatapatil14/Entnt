@@ -1,0 +1,64 @@
+
+.DashDiv{
+    padding-top: 2rem;
+   
+}
+.analysis{
+    text-align: center;
+    
+   
+}
+.second_col{
+    padding-top: 13px;
+   margin-left: auto;
+   margin-right: auto;
+}
+.tot_pro{
+     
+    background-color: #858e89;
+    text-align: center;
+    padding: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+    
+    
+}
+.probtn{
+    margin-top: 20px;
+    margin-left: 5rem;
+    background-color: #411cc5;
+    color: white;
+    
+}
+.ordbtn{
+    margin-top: 20px;
+    margin-left: 5rem;
+    background-color: #411cc5;
+    color: white;
+}
+@media (max-width: 768px) {
+    
+  .linechart {
+        display: none;
+  }
+  .probtn{
+    margin-top: 20px;
+    margin-left: 5rem;
+    
+}
+.ordbtn{
+    margin-top: 20px;
+    margin-left: 5rem;
+}
+.tot_pro{
+    
+    background-color: #858e89;
+    text-align: center;
+    padding: 30px;
+    border-radius: 13px;
+    cursor: pointer;
+    
+    
+}
+  
+}
