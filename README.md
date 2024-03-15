@@ -88,13 +88,13 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## **ScreenShots**
 
-![Screenshot 2024-03-09 103813](https://github.com/umang00arora/entnt/assets/92449585/d098b5df-bea1-4d3f-bec1-61946e948898)
+![Screenshot 2024-03-15 175411](https://github.com/mamatapatil14/Entnt/assets/104715242/759a3f47-8aaa-4dff-b6d1-ea95e7001428)
 
+![Screenshot 2024-03-15 175453](https://github.com/mamatapatil14/Entnt/assets/104715242/1e1f21b5-66a9-47a8-8537-90556eb5e36a)
 
-![Screenshot 2024-03-09 103830](https://github.com/umang00arora/entnt/assets/92449585/b7d68802-e8bb-48e4-85d4-d3a6b0a436ba)
+![Screenshot 2024-03-15 175516](https://github.com/mamatapatil14/Entnt/assets/104715242/fdfda2a0-22f4-4f64-b8bd-41544a2f203e)
 
-
-![Screenshot 2024-03-09 103916](https://github.com/umang00arora/entnt/assets/92449585/cb676c39-ea16-4d96-b995-38aa4960ad33)
+![Screenshot 2024-03-15 175542](https://github.com/mamatapatil14/Entnt/assets/104715242/5c52abcf-0701-42d9-a9de-4c1fc2fb5cca)
 
 
 
